@@ -23,6 +23,6 @@ In order to use this app:
 
 4. If you say yes, you will be presented with the list of items again, this time with updated quantities. Insert the ID for the next product you'd like to buy. ![image 4](images/06-keep-shopping.png)
 
-5. If you select an item that is out of stock or has a lesser quantity than requested, you will receive an Insufficient Quantity error and be prompted to try again. ![image 5](images/07-insufficient-quantity.png)]
+5. If you select an item that is out of stock or has a lesser quantity than requested, you will receive an Insufficient Quantity error and be prompted to try again. ![image 5](images/07-insufficient-quantity.png)
 
 6. If you're all shopped out, simply choose 'n' (for No) and the app connection will end. ![image 6](images/08-done-shopping.png)
