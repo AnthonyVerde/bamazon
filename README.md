@@ -14,4 +14,6 @@ In order to use this app:
 
 ## Demo
 
-After starting the app in the command line, you'll be presented 
+After starting the app in the command line, you'll be presented with a friendly welcome
+
+![images/01-bamazon-database.png]
